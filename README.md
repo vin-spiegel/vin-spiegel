@@ -2,11 +2,11 @@
 ----
 - lua
 - node js
-- .net
 
 Interest👀
 ----
 - Game & Service
+- .net
 
 <!---
 vin-spiegel/vin-spiegel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
